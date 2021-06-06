@@ -1,1 +1,1 @@
-rootProject.name = "budget-control"
+rootProject.name = "category"
